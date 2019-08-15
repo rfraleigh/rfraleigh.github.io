@@ -138,6 +138,10 @@ h6 {
       color: #323232;
       /*text-shadow: 1px 1px 1px #353535;*/
   }
+#portfolio .container {
+  padding-left:25px;
+  padding-right:25px;
+}
 
 @media (min-width: 992px) {
   .masthead {
@@ -182,6 +186,10 @@ h6 {
         transform: rotate(0deg);
     }
 
+    #portfolio .container {
+      padding-left:100px;
+      padding-right:100px;
+    }
 
 
 
