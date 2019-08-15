@@ -142,6 +142,10 @@ h6 {
   padding-left:25px;
   padding-right:25px;
 }
+#about .container {
+      padding-left:25px;
+      padding-right:25px;
+    }
 
 @media (min-width: 992px) {
   .masthead {
@@ -189,6 +193,11 @@ h6 {
     #portfolio .container {
       padding-left:100px;
       padding-right:100px;
+    }
+
+    #about .container {
+      padding-left:25px;
+      padding-right:25px;
     }
 
 
